@@ -1,4 +1,4 @@
-# 
+# VIP NeuralQuery guía. Descarga e instala con instalación en un clic y implementación local — rápido, seguro y fácil de usar.
 
 
 
